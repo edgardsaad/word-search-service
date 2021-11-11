@@ -1,0 +1,6 @@
+2021-11-03 13:33:24#[main]#INFO #c.l.WordSearchServiceApplication
+				| Starting WordSearchServiceApplication using Java 1.8.0_152 on JPsamra with PID 1616 (C:\workspaceLabForward\word-search-service\target\classes started by jpsamra in C:\workspaceLabForward\word-search-service)
+2021-11-03 13:33:24#[main]#INFO #c.l.WordSearchServiceApplication
+				| The following profiles are active: default
+2021-11-03 13:33:24#[main]#INFO #c.l.WordSearchServiceApplication
+				| Started WordSearchServiceApplication in 0.792 seconds (JVM running for 1.767)
