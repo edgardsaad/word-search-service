@@ -80,7 +80,8 @@ text : represents the notebook entry we are searching in
 
 ### Additional Work to be done
 
-* Update the API to accept the acceptable ditance as parameter
+* Update the API to accept the Levenshtein acceptable0 ditance as parameter
+* Adding security on both frontend and backend , encrypt the requst and add a bearer to the API header 
 * Additional test scenarios covering all functionalities
 * Further documentation of the code 
 * User Option to use other text distance algorithms in addition to the Levenshtein algorithm
