@@ -10,12 +10,12 @@ Java REST API using the **Levenshtein distance** algorithm to return the frequen
 
 ## Building
 
-### Development environment:
+### Development environment
 
 * IDE : Eclipse Version: 2021-09 (4.21.0)
 * Framework: Spring Boot 
 
-### Prerequisites:
+### Prerequisites
 
  1. Java jdk 1.8 .
  2. <a href="https://maven.apache.org/" target="_blank">Apache Maven 4.0.0</a>
@@ -33,7 +33,7 @@ After the mvn install :
 - Run as "Spring Boot App" for development purposes
 - Find the built jar under "/word-search-service/target" to be used as production package
 
-### Additional POC :
+### Additional POC
 
 An Angular project was developed as a POC for consuming this API. 
 The code of this POC is shared in the below repository :
