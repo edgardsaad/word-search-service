@@ -38,6 +38,8 @@ After the mvn install :
 An Angular project was developed as a POC for consuming this API. 
 The code of this POC is shared in the below repository :
 
+* https://github.com/edgardsaad/word-search-service-FE.git
+0
 ```sh
 git clone https://github.com/edgardsaad/word-search-service-FE.git
 cd word-search-service-FE
